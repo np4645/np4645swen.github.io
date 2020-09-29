@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Welcome to Nathan Perez's SWEN-101 Github Page!
+# About Me
+<img src="https://i.imgur.com/hmsnohK.jpg" alt="Myself" width="200"/>
 
-You can use the [editor on GitHub](https://github.com/np4645/np4645swen.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I was born on October 30th, 2002 in the city of Reading, Pennsylvania (think the Reading Railroad from the Monopoly Board!). 
+I lived there throughout my entire life up until this past August, when I moved in on-campus at RIT. I went to Berks Catholic High School and graduated with high honors.
+Some of my passions and hobbies include creative writing (especially poetry), solving Rubik's Cubes very quickly, and I am on one of RIT's Esports teams.
+When I'm not in my dorm studying or working on a project, you'll likely find me hanging out with friends or walking up and down campus at 1 A.M. I chose 
+software engineering as my career path because I love creating solutions to common problems and seeing my code utilized by a wide variety of people.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Things I'm looking forward to in SWEN-101:
+- The ability to collaborate with a team on a project and develop effective team-building and project-management skills.
+- Learning how to properly network and reach out to those in the Software Engineering industry to expand my professional influence.
+- Virtual candy
+- SWEN Links: [SWEN-101 Homepage](http://www.se.rit.edu/~swen-101/00/index.html) // [RIT SWEN Homepage](https://www.rit.edu/computing/department-software-engineering)
 
-### Markdown
+# Speaking of candy...my favorite food:
+<img src="https://www.jessicagavin.com/wp-content/uploads/2014/01/buttermilk-fried-chicken-11-600x900.jpg" alt="Fried Chicken" width="300"/>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+_Can't beat Fried Chicken!_ Especially if it's seasoned properly and served with a side of lemon. A close second is a dessert called "arroz con dulce" (a traditional Puerto Rican dessert, think of a sweet rice pudding). Here's a picture of that, too:
 
-```markdown
-Syntax highlighted code block
+<img src="https://www.kitchengidget.com/wp-content/uploads/2019/11/Arroz-con-Dulce-2.jpg" alt="Arroz con Dulce" width="300"/>
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/np4645/np4645swen.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+_Made by Nathan Perez, np4645@rit.edu_
