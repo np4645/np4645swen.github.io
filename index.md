@@ -1,4 +1,4 @@
-## Welcome to Nathan Perez's SWEN-101 Github Page!
+
 # About Me
 <img src="https://i.imgur.com/hmsnohK.jpg" alt="Myself" width="200"/>
 
